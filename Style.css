@@ -1,0 +1,25 @@
+body{
+header{}
+header div:first-child{padding:4%; background:blue ; width:35%; float:left;}
+header div:nth-child(2){padding:4%; background:rgb(113, 11, 4) ; width:35%; float:left;}
+.clear{ clear:both;}
+
+nav{background:red}
+nav ul{margin:5px; padding:0;}
+nav ul li{ 
+   list-style:none; float:left; margin:0.5%; padding:1%; background-color:yellow
+}
+nav ul li a{text-decoration:none; display:block; width:100%;}
+nav ul li:hover{background-color:lightgreen;} 
+.clear{ clear:both;}
+
+section{}
+section div:first-child{padding:4%; background:blue ; width:35%; float:left;}
+section div:nth-child(2){padding:4%; background:yellow ; width:35%; float:left;}
+.clear{ clear:both;}
+
+
+section{}
+footer{padding:4%; background:pink ; width:100%; float:left;}
+.clear{ clear:both;}
+}

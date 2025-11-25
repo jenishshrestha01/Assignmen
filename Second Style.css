@@ -1,0 +1,16 @@
+body{margin:150px;}
+header{}
+header div:first-child{padding:4%; background:gray ; width:88.5%; float:left;margin-bottom:0.5%}
+
+.clear{ clear:both;}
+
+section{}
+section div:first-child{padding:4%; background:skyblue ; width:20%; float:left;margin-right:2.5%;height:200px;}
+section div:nth-child(2){padding:4%; background:yellow ; width:58%; float:left;height:200px;}
+.clear{ clear:both;}
+
+
+section{}
+footer{padding:4%; background:pink ; width:88.5%; float:left;margin-top:0.5%;margin-bottom:2%}
+.clear{ clear:both;}
+
